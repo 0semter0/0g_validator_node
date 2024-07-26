@@ -1,4 +1,4 @@
-<h1>0g_validator_node</h1>
+<h1 align=center>0g_validator_node</h1>
 
 ![0_AxKIus_I-soNSp03](https://github.com/user-attachments/assets/ff87260c-cb0d-4cbc-a235-2c8e67d5d89c)
 
